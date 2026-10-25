@@ -150,7 +150,3 @@ git clone https://github.com/RenatoAU/EGN310-Jacinto_M8.2.git
 cd EGN310-Jacinto_M8.2
 python app.py
 ```
-
-The initial repository contained only a README and one October 25, 2026 commit. This delivery preserves that commit and adds the application. Commits spanning Modules 4–8 were not present in the inspected history. Provide genuine earlier evidence if available and explain the gap to the instructor. Do not backdate commits. See `SUBMISSION_CHECKLIST.md`.
-
-AI substantially assisted with code, tests, and documentation; see `AI_LOG.md`. The student must review the implementation, run it locally, and demonstrate the ability to explain and modify it live.
