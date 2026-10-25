@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "pending": [
+    {"reminder_date": "2026-11-02", "sequence": 1, "name": "Rice", "cost_cents": 450},
+    {"reminder_date": "2026-10-27", "sequence": 2, "name": "Milk", "cost_cents": 380},
+    {"reminder_date": "2026-10-27", "sequence": 3, "name": "Yogurt", "cost_cents": 220}
+  ],
+  "history": []
+}
